@@ -1,12 +1,11 @@
 <!-- Início da seção de introdução -->
 <h1>Gerenciador de Alunos &lt;Primeiro Código&gt;</h1>
-<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, armazenar, gerenciar e visualizar os dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da matéria de JavaScript do curso de Desenvolvimento Web &lt;Primeiro Código&gt;</p> 
+<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, armazenar, gerenciar e visualizar os dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da matéria de JavaScript do curso de Desenvolvimento Web &lt;Primeiro Código&gt;.</p> 
 <!-- Fim da seção de introdução -->
 
 <!-- Início da seção de demonstração -->
 <h2>Demonstração: </h2>
-<p></p>
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="code">
+<a href="https://www.linkedin.com/in/niwanbernardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25> </a>
 <!-- Fim da seção de demonstração -->
 
 <!-- Início da seção de usos -->
@@ -28,11 +27,12 @@
 <!-- Fim da seção de funcionalidades -->
 
 
-
 <!-- Início da seção de usos -->
 <h2>Tecnologias utilizadas: </h2>
 <p>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 <!-- Fim da seção de usos -->
 
