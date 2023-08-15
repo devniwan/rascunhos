@@ -1,6 +1,6 @@
 <!-- Início da seção de introdução -->
 <h1>📚 Gerenciador de Alunos &lt;Primeiro Código&gt; 🖥️</h1>
-<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, armazenar, gerenciar e visualizar os dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da disciplina de JavaScript do curso de Desenvolvimento Web &lt;Primeiro Código&gt;.</p> 
+<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, armazenar, gerenciar e visualizar os dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da disciplina de <b>JavaScript</b> do curso de Desenvolvimento Web Front-End &lt;Primeiro Código&gt;.</p> 
 <!-- Fim da seção de introdução -->
 
 
@@ -22,7 +22,7 @@
 
 <!-- Início da seção de usos -->
 <h2>🎮 Como utilizar: </h2>
-<p>Para iniciar a aplicação, é possível acessá-la através do <a href="https://devniwan.github.io/rascunhos/">link do projeto</a> ou baixar os arquivos do repositório e abrir o documento "index.html".</p>
+<p>Para iniciar a aplicação, é possível acessá-la através do <a href="https://devniwan.github.io/rascunhos/">link do projeto</a> ou baixar os arquivos do repositório e executar o documento <code>index.html</code>.</p>
 <!-- Fim da seção de usos -->
 
 <!-- Início da seção de funcionalidades -->
@@ -50,3 +50,17 @@
 <!-- Fim da seção "Contato" -->
 
 
+<!-- Início da seção de licença -->
+<h2>⚖️ Licença (MIT): </h2>
+<p> Qualquer pessoa que obtenha uma cópia do software e seus arquivos de documentação associados pode lidar com eles sem restrição, incluindo sem limitação os direitos a usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software. Sendo apenas necessário fornecer os créditos ao criador original. </p>
+<!-- Fim da seção de licença -->
+
+<br>
+<br>
+
+<!-- Início da seção "Finalização" -->
+<div align="center">
+  <p>Feito com :heart: por <b>Niwan Bernardo</b>.</p>
+  <p>Deixe uma :star: no projeto.</p>
+</div>
+<!-- Fim da seção "Finalização" -->
