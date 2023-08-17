@@ -36,6 +36,7 @@
   <li>Cálculo de média: <code>calcularMediaAluno(codigo)</code></li>
   <li>Desativação de alunos: <code>desativarAluno(codigo)</code></li>
 </ul>
+<img src="https://i.postimg.cc/nL4XFyMD/terminal-exemplo.png" target="_blank">
 <!-- Fim da seção de funcionalidades -->
 
 
