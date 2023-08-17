@@ -27,7 +27,7 @@
 
 <!-- Início da seção de funcionalidades -->
 <h2>⚙️ Funcionalidades: </h2>
-<p>Para acessar as funcionalidades extras, é necessário acessar o terminal e digitar as funções abaixo.</p>
+<p>Para usar as funcionalidades, é necessário acessar o Console através da tecla <code>F12</code> e utilizar os botões. Também é possível gerenciar os dados através das funções abaixo.</p>
 <ul>
   <li>Cadastro de alunos: <code>cadastrarAluno(codigo, nome, sobrenome, email, notas)</code></li>
   <li>Remoção de alunos: <code>removerAluno(codigo)</code></li>
@@ -42,7 +42,7 @@
 <!-- Início da seção "Contato" -->
 <h2>🌐 Contato: </h2>
 <p>
-<a href="https://www.linkedin.com/in/niwanbernardo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25> </a>
+<a href="https://www.linkedin.com/in/niwanbernardo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height=25> </a>
 <a href="https://api.whatsapp.com/send?phone=5511991359164" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height=25></a>
 <a href="https://www.instagram.com/devniwan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height=25></a> 
 <a href="https://github.com/niwanbernardo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" target="_blank" height=25 /></a>
@@ -52,7 +52,7 @@
 
 <!-- Início da seção de licença -->
 <h2>⚖️ Licença (MIT): </h2>
-<p> Qualquer pessoa que obtenha uma cópia do software e seus arquivos de documentação associados pode lidar com eles sem restrição, incluindo sem limitação os direitos a usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software. Sendo apenas necessário fornecer os créditos ao criador original. </p>
+<p> Qualquer pessoa que obtenha uma cópia do software e seus arquivos de documentação associados pode lidar com eles sem restrição, incluindo sem limitação os direitos a usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do software. </p>
 <!-- Fim da seção de licença -->
 
 <br>
