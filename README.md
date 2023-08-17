@@ -1,6 +1,6 @@
 <!-- Início da seção de introdução -->
 <h1>📚 Gerenciador de Alunos &lt;Primeiro Código&gt; 🖥️</h1>
-<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, armazenar, gerenciar e visualizar os dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da disciplina de <b>JavaScript</b> do curso de Desenvolvimento Web Front-End &lt;Primeiro Código&gt;.</p> 
+<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar, gerenciar e visualizar dados de alunos numa escola fictícia chamada "Lógica Sempre". O projeto foi criado como trabalho final da disciplina de <b>JavaScript</b> do curso de Desenvolvimento Web Front-End &lt;Primeiro Código&gt;.</p> 
 <!-- Fim da seção de introdução -->
 
 
