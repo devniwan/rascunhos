@@ -6,7 +6,7 @@
 
 <!-- Início da seção de demonstração -->
 <h2>🎥 Demonstração: </h2>
-<a href="https://devniwan.github.io/rascunhos/"><img src="https://i.postimg.cc/sXmTDqd2/Miniatura-Formulario-Java-Script.png" target="_blank"> </a>
+<a href=""><img src="https://i.postimg.cc/sXmTDqd2/Miniatura-Formulario-Java-Script.png" target="_blank"> </a>
 <!-- Fim da seção de demonstração -->
 
 
@@ -22,7 +22,7 @@
 
 <!-- Início da seção de usos -->
 <h2>🎮 Como utilizar: </h2>
-<p>Para iniciar a aplicação, é possível acessá-la através do <a href="https://devniwan.github.io/rascunhos/">link do projeto</a> ou baixar os arquivos do repositório e executar o documento <code>index.html</code>.</p>
+<p>Para iniciar a aplicação, é possível acessá-la através do <a href="">link do projeto</a> ou baixar os arquivos do repositório e executar o documento <code>index.html</code>.</p>
 <!-- Fim da seção de usos -->
 
 <!-- Início da seção de funcionalidades -->
